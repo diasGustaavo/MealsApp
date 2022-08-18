@@ -1,16 +1,14 @@
-# meals
+# Meals App
 
-A new Flutter project.
+A food recipe app made in Flutter with favorites, gluten, vegan, vegetarian & lactose filters.
 
-## Getting Started
+![fig1](https://user-images.githubusercontent.com/60455369/185432842-8f88ee3d-8dc2-43b9-b2ca-458033882df9.PNG)
+![fig2](https://user-images.githubusercontent.com/60455369/185432857-e1881eed-1645-4c10-a6c7-930ae6a21924.PNG)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Running Instructions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this app on a machine with flutter installed, just run the following code on your terminal:
+
+```flutter run```
